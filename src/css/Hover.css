@@ -1,0 +1,8 @@
+.Hover{
+    transition: 0.4s;
+}
+
+.Hover:hover{
+    background: red;
+    border-radius: 7%;
+}

@@ -1,0 +1,6 @@
+.BoxBoardColumn{
+    background-color: #f7ede2;
+    border: 2px solid black;
+    border-radius: 10%;
+    box-shadow: 2px 3px 6px rgba(255, 0, 0, 2), 0 1px 4px rgba(255, 0, 0, 2), 4px 5px 4px rgba(255, 0, 0, 2)
+}
